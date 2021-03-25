@@ -1,28 +1,15 @@
-<!--- Provide a general summary of your changes in the Title above -->
+<!--- Provide a short summary of your changes in the Title -->
 
-## Description
-**Describe your changes in detail
+## Summary
+<!--- Describe the changes in more detail. Feel free to include screenshots if relevant. -->
 
-## Motivation and Context
-**Why is this change required? What problem does it solve?
-- If it fixes an open issue, please link to the issue here.
+## Motivation
+<!--- Why have you made this Pull Request? Does this fix an open issue? -->
 
-## How Has This Been Tested?
-**Please describe in detail how you tested your changes.
-- Include details of your testing environment, tests ran to see how
-- your change affects other areas of the code, etc.
+## Testing
+<!--- Has this been tested beyond the automatic hooks? How so? -->
 
-## Screenshots (if appropriate):
+## Questions
+<!--- Are there any aspects you're unsure about? Are you looking for any feedback? -->
 
-## Types of changes
-**What types of changes does your code introduce? Put an `x` in all the boxes that apply:
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-
-## Checklist:
-**Go over all the following points, and put an `x` in all the boxes that apply.
-**(If you're unsure about any of these, don't hesitate to ask. We're here to help!)
-- [ ] My code follows the code style of this project.
-- [ ] My change requires a change to the documentation.
-- [ ] I have updated the documentation accordingly.
+<!--- Mark a pull request as a draft to signal that it is not ready for review. -->
