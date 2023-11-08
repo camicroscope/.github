@@ -2,19 +2,14 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: ''
+labels: enhancement, unreviewed
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Summary:** Provide a concise summary of the feature or improvement you want to propose.
+**Background:** Include background information explaining why this feature is valuable or necessary.
+**Use Cases:** Describe the use cases for this feature, detailing how it benefits users.
+**Implementation:** If you have ideas on how to implement the feature, share them here. This could include code snippets, architecture diagrams, or any technical details.
+**Expected Impact:** Explain the expected impact of this feature on the caMicroscope platform and its users.
+**Additional Notes:** Any additional context, information, or references that can support your proposal.
