@@ -3,3 +3,5 @@
 </h2>
 
 caMicroscope is a web-based biomedical image and data viewer, with a strong emphasis on cancer pathology WSI (Whole Slide Imaging).
+
+Please review our [code of conduct](https://github.com/camicroscope/.github/blob/master/CODE_OF_CONDUCT.md)https://github.com/camicroscope/.github/blob/master/CODE_OF_CONDUCT.md.
