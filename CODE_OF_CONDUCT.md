@@ -1,76 +1,35 @@
-# Contributor Covenant Code of Conduct
+# caMicroscope Code of Conduct
+
+As a member of the caMicroscope community, it's essential that we maintain a welcoming and respectful environment for everyone involved. We want our community to be inclusive and diverse, and to achieve that, we have established the following Code of Conduct that we expect all community members to adhere to:
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, sex characteristics, gender identity and expression,
-level of experience, education, socio-economic status, nationality, personal
-appearance, race, religion, or sexual identity and orientation.
+In the interest of fostering an open and welcoming community, we, as contributors and maintainers, pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-## Our Standards
+## Expected Behavior
 
-Examples of behavior that contributes to creating a positive environment
-include:
+We expect all community members to:
+- Be respectful of other community members.
+- Use welcoming and inclusive language.
+- Be considerate of different points of view and experiences.
+- Show empathy towards other community members.
+- Gracefully accept constructive criticism.
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+## Unacceptable Behavior
 
 Examples of unacceptable behavior by participants include:
+- Using harassing or offensive language.
+- Posting, sharing, or displaying inappropriate content.
+- Insulting or derogatory comments or personal attacks.
+- Public or private harassment.
+- Other conduct that could reasonably be considered inappropriate in a professional setting.
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
- advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
- address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
- professional setting
+## Consequences of Unacceptable Behavior
 
-## Our Responsibilities
+Unacceptable behavior will not be tolerated within the caMicroscope community. Anyone asked to stop unacceptable behavior is expected to comply immediately. If a community member engages in unacceptable behavior, we may take any action deemed appropriate, including warning the offender, temporary or permanent suspension from the community, or any other actions that protect the well-being of the community.
 
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+## Reporting Violations
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
+If you experience or witness behavior that violates our Code of Conduct, please report it to our project maintainers at [camicroscope-leadership@googlegroups.com](mailto:camicroscope-leadership@googlegroups.com). All reports will be handled with confidentiality and will be taken seriously. We are committed to maintaining the confidentiality and privacy of those who report violations.
 
-## Scope
-
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
-
-## Enforcement
-
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at camicroscope@googlegroups.com. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
-
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
-
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
-
-[homepage]: https://www.contributor-covenant.org
-
-For answers to common questions about this code of conduct, see
-https://www.contributor-covenant.org/faq
+Our Code of Conduct is adapted from the [Contributor Covenant](https://contributor-covenant.org/version/2/0/code_of_conduct/).
